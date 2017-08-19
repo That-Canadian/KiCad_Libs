@@ -1,7 +1,7 @@
-(module Mx_Alps_100-dualside (layer F.Cu) (tedit 5925053E)
+(module Mx_Alps_100-dualside (layer F.Cu) (tedit 59986325)
   (descr MXALPS)
   (tags MXALPS)
-  (fp_text reference >NAME (at -0.508 2.794) (layer F.SilkS) hide
+  (fp_text reference >NAME (at -0.22 2.79) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.2)))
   )
   (fp_text value >VALUE (at 0 4.572) (layer F.SilkS)
